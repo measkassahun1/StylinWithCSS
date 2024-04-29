@@ -1,0 +1,46 @@
+html {
+    background-color: #ccc;
+   }
+   
+   body {
+     font-family: Arial, sans-serif;
+     background-color: #fff;
+     max-width: 960px;
+     width: 90%;
+     margin: auto;
+     padding: 1%;
+   }
+   
+   nav{
+     text-align: center; 
+   }
+   
+   nav a{
+     color:#000;
+   }
+   
+   nav ul{
+     list-style: none;
+   }
+   
+   nav li{
+     display: inline-block;
+     margin:0 2%;
+   }
+   
+   nav a:hover{
+     text-decoration: none;
+   }
+   
+   h1.page-header{
+     font-family: 'Inknut Antiqua', serif;
+     width: 80%;
+     margin:auto;
+     text-align: center;
+     text-shadow: 4px 4px 4px #aaa;
+   }
+   
+   footer{
+     clear:both;
+     text-align:center;
+   }
